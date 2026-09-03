@@ -50,3 +50,45 @@
     marketing dept manages brand, sources and prioritizes leads, then supports and constrains sales
     how do marketing and sales interact
         what role do analytics play in sales?
+## Lecture 2
+    incrementality:
+        a way of knowing that someone bought something because of the ad and not just a corelation
+        the difference between advertising-generated conversions and the conversions that would have occurred anyway without the campaign
+    key points of incrementality
+    1. causal inference: its rooted in causal inference, aiming to isolate the effect of a specific action from other factors
+    2. control groups: key method involves using control groups to measure what would have happened in teh absence of teh intervention
+    3. lift: it is often expressed as lift, representing the increase in desired outcomes
+    4. A/B testing: commonly used technique to measure incrementality include A/B testing whesre one group is exposed to the treatment adn teh other isn't
+    5. attribution models: it is crucial for accurate attribution models, ensuring that credit is assigned correctly to the actions that drive the results
+# Conflict of interest in reporting
+    Each group goes down one group to see how well they did from proof and they just say how well they did to stay positive
+# Brand advertising
+    campaigns desgined to generate awareness, create associations, change attitudes, change attitudes and simulate long run response. Believed toincrease mental availability to increase choice probability in the consumer's next choice
+# performance
+    campaigns designed to stimulate short run measurable response, especially visitation and or sales
+# what do we measure
+    ROAS (return on advertising spend)
+        Rev attributed to ads/ ad spending
+    iROAS: only if we have causal identification
+    they aren't the same because attribution is usually correlational
+# diminishing returns
+    mROAS is the tangent to the sales response curve with ad spending on X and Rev on Y
+    ROAS is used for overall evaluation and mROAS is used for budget reallocation
+    Maxing ROI implies the highest mROAS which would occur at 0
+ # Marketing Mix Model(MMM)
+    consists of the 4 P's, typically uses marketing mix variables to explain sales
+        when possible, MMM should include competitor variables also
+        what happens to sales when price and ads increase at same time
+# Using mROAS to reallocate spending
+    MMM fits a sales response curve per channel
+    ROAS maximization requires harmonizing mROAS across channels
+        Try to get the tangents to be parallel and transfer spending from the one with the lower slope to the one with the higher slope
+# Popular ad experiments
+    1. Going dark: randomly withhold ads. Estimates iROAS (dropbox and ebay)
+    2. Weight test: randomize spending between high and low spend treatments, mROAS
+    3. Randomize messages within a campaign
+    4. randomize budget across platforms, publishers, behavioral targets, contexts
+    Multi Cell weight test: gives iROAS at both spending lebel and incremental mROAS between spending levels
+# unified marketing measurement
+    mngmnt considers MMM, experiments, attributions, and brand lift test holistically, seeking to understand relationship between them and pros/cons of each rather than giving primacy to any single measure
+    when measure overlap, we cna compare them directly, to estimate the bias of less credible measure. if an experiment result is half as large as a comparable attribution, then similar attributions might be deflated by 50%. Stability of intermeasure comparisons then become important
