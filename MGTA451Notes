@@ -1,3 +1,4 @@
+### Marketing
 ## Lecture 1
 # Customer value: challenges
     Customer doesn't know CV
@@ -92,3 +93,103 @@
 # unified marketing measurement
     mngmnt considers MMM, experiments, attributions, and brand lift test holistically, seeking to understand relationship between them and pros/cons of each rather than giving primacy to any single measure
     when measure overlap, we cna compare them directly, to estimate the bias of less credible measure. if an experiment result is half as large as a comparable attribution, then similar attributions might be deflated by 50%. Stability of intermeasure comparisons then become important
+
+### Finance
+## Lecture 1
+    bonds: represents a debt obligation that will be paid back at a later time
+    shares: represent ownership of a company and entitles you to dividends from the company
+    dollar weakening: makes it more expensive for americans to invest abroad but easier for foreign people to invest here
+        imports become more expensive because it costs more to get these things into the country
+    what is finance?: branch of economics that focuses in theory and practice of financial decision making and financial markets
+    3 main areas
+        1. asset pricing: how do prices of assets form on financial markets
+        2. corporate finance: financial decision making of corporations
+        3. personal finance: financial decision making of households
+# Understanding Finance
+    Money:
+        medium of exchange (how many bottles of water are worth one bottle of coke)
+        unit of value: measure the value of goods, services, performance
+        store of value: saving and borrowing allows timing of consumption
+# Financial markets: institutions of trading financial assets
+    financial assets are like IOUs
+        assets carry right to receive cash flow
+    markets refer to all institutions and people who buy and sells financial assets
+# Actors on financial markets
+    households:
+        participate by finding solutions to:
+            balancing monthly budget
+            deficit or surplus
+            choosing patterns if consumptions
+                level of affordability, choice of long term assets (rent/buy), choice of discretionary consumption (vacation)
+            meeting debt obligations
+    Businesses and government entities:
+        managing cash flows, saving and investing excess cash, borrowing to finance investments, issuing equity capital (stocks)
+        legal vs natural persons
+            Natural: they are people who are born into legal institution and system
+            Legal: firms and government entities, established and disbanded by other natural or legal persons by ways prescribed by law
+            business and gov entities participate in financial markets by the financial management of their affairs
+            Decision making delegated to professional managers
+        Financial mgmt
+            manage incoming and outgoing cash flow to stakeholders
+            investment in short and long term assets
+            financing these investments by debt or equity
+            Above activities involve obligations to pay or receive present or future payments and financial contracts
+    The US Treasury (as well as treasuries of other governments in the world)
+        borrow money to finance federal spending when these exceed tax revenues – repay borrowings when tax revenues exceed federal spending
+        a particular legal person: creates laws and institutions (legislative branch), is responsible for executing these laws (executive branch), and interpret and evaluate laws (judicial branch)
+        Treasury manages
+            federal finances by collecting taxes and paying bills
+            currency
+            gov accounts and national debt
+        it is largest player on financial markets
+        also enforces finance and tax laws
+        The Fed:
+            central bank of the US and has 12 regional branches
+            overseen by board of governors in DC
+            Primary duties: ensure health and stability of US economy, prevent inflation, preserve health of financial system
+            it is responsible for monetary policy:
+                setting fed funds rate, engaging in gov bond buying and selling, setting banks' reserve requirements
+    Financial intermediaries: banks, institutional investors
+        directing the flow of funds throughout the economy, managing payment systems, accepting deposits, making loans, pooling and managing financial risks
+        refers to the group activities that direct money flow from savers to borrowers
+        2 types: banks and non-banks
+        middlemen among businesses, government entities, the Fed, and households
+        Functions:
+            payment transfers
+            loans – not only grant loans, but also borrow themselves
+            investment decisions – intermediation and trading on their own account
+            risk appraisal and management
+# Time Value of Money
+    TVM:
+        related to consumption timing: investing financial assets allows storing wealth and postponing consumption as well as borrowing and bringing consumption forward
+        Difference in value of money today and in the future is called TVM
+            by investing our savings in a risk free asset today, we can convert our present money to future money (interest rates allows us ot convert money from one point to another)
+    The Rate
+    effective appreciation of money over time, assuming that the investor does not withdraw any money
+    Reward for delaying consumption
+        the further in the future, the higher the FV of the money
+    Effective Annual Rate (EAR) vs Annual Percentage rates
+        APRs are rates quoted by banks along with frequency of compounding
+        APR can be converted to any periodic rate by dividing by the frequency of compounding
+            Quart: APR/4, Monthly APR/12, Semi-annual APR/2
+            the power of the rate is how many times it is compounded so multiply by 12 for months and others accordingly
+        EAR is the interest rate that would come out if it was compounded once a year
+            EX: .5% monthly interest --> EAR = (1+.005)^12 - 1 = 6.17%
+            EX2: 20% interest over 3 years --> EAR = (1+.2)^(1/3) - 1 = 6.265%
+    Nominal vs Real Rate
+        Difference is the rate of inflation --> general increase in prices
+        Real rate of return = nominal rate of return (EAR) - inflation
+        capture the appreciation in the value of goods and services that can be consumed
+    Risk
+        Risk and return
+            risk refers to possibility that realized cash flows will be different from cash flows expected at the same time of the decision making
+            main risk is default (non-payment)
+        Investor Rationality
+            investor is risk averse and expects compensation for facing risk
+            Expected return on a risky asset > return on the risk-free asset
+            compensation is the risk premium
+            Risk premium = [expected return on an asset bearing a particular set of risks] – [risk-free return]
+            The higher the risk, the greater the risk premium demanded by rational investors.
+            In Finance we assume that financial markets are populated by rational investors.
+        Return on risk-free asset
+            A risk-free asset carries no uncertainty about future payments and the expected return will be realized under all conditions (E(R) = r risk free)
