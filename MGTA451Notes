@@ -1,20 +1,20 @@
-### Marketing
+# Marketing
 ## Lecture 1
-# Customer value: challenges
+### Customer value: challenges
     Customer doesn't know CV
     CV confused with attitudes, beliefs, limited info
     CV is subjective and can be socially influenced
     CV measures are incomplete and biased
     Easy to misinterpret CV measures
-# CV measurement isn't always prioritized
+### CV measurement isn't always prioritized
     What do marketers do
     What does the customer want?
     How are customers different from each other?
     Marketer is different from consumer, don’t try to put your feelings into those of the consumer
-# who should be responsible for marketing
+### who should be responsible for marketing
     C-suite should take responsibility bc of how important it is
     What is their main role?
-# Traditional marketing frameworks
+### Traditional marketing frameworks
     situation analysis: 3/4/5 C's
         customer, competitor, company/ context/ collaborators
         analyze market you are in
@@ -25,7 +25,7 @@
         Product, place, price, promotion
     brand equity
         awareness, associations, perceived equity, quality, loyalty
-# Modern Marketing Framework: mostly empirical
+### Modern Marketing Framework: mostly empirical
     Purchase funnel AKA AIDA/ customer journey
         attention, interest, desire, conviction, action, satisfaction
         visit, consider, purchase, retention, advocacy
@@ -36,11 +36,11 @@
         owned media, earned media, paid media
     Heterogeneity, targeting, personalization
         experience, needs, perceptions, wtp, purchases, recommendations, reviews
-# personalization profit impact
+### personalization profit impact
     alibaba personalizes product recommendations based on demographics, past, clicks, past purchases, etc
     AB testing: randomly turned off personalization for some visitors
     click-thrus fell 75%, visits 33%, gross spending 81%
-# Sales
+### Sales
     sales is primary marketing channel in B2B
     why does good salespeople earn lots of money?
         profit impact is directly observable
@@ -52,49 +52,49 @@
     how do marketing and sales interact
         what role do analytics play in sales?
 ## Lecture 2
-    incrementality:
+### incrementality:
         a way of knowing that someone bought something because of the ad and not just a corelation
         the difference between advertising-generated conversions and the conversions that would have occurred anyway without the campaign
     key points of incrementality
     1. causal inference: its rooted in causal inference, aiming to isolate the effect of a specific action from other factors
     2. control groups: key method involves using control groups to measure what would have happened in teh absence of teh intervention
     3. lift: it is often expressed as lift, representing the increase in desired outcomes
-    4. A/B testing: commonly used technique to measure incrementality include A/B testing whesre one group is exposed to the treatment adn teh other isn't
+    4. A/B testing: commonly used technique to measure incrementality include A/B testing where one group is exposed to the treatment adn teh other isn't
     5. attribution models: it is crucial for accurate attribution models, ensuring that credit is assigned correctly to the actions that drive the results
-# Conflict of interest in reporting
+### Conflict of interest in reporting
     Each group goes down one group to see how well they did from proof and they just say how well they did to stay positive
-# Brand advertising
-    campaigns desgined to generate awareness, create associations, change attitudes, change attitudes and simulate long run response. Believed toincrease mental availability to increase choice probability in the consumer's next choice
-# performance
+### Brand advertising
+    campaigns designed to generate awareness, create associations, change attitudes, change attitudes and simulate long run response. Believed to increase mental availability to increase choice probability in the consumer's next choice
+### performance
     campaigns designed to stimulate short run measurable response, especially visitation and or sales
-# what do we measure
+### what do we measure
     ROAS (return on advertising spend)
         Rev attributed to ads/ ad spending
     iROAS: only if we have causal identification
     they aren't the same because attribution is usually correlational
-# diminishing returns
+### diminishing returns
     mROAS is the tangent to the sales response curve with ad spending on X and Rev on Y
     ROAS is used for overall evaluation and mROAS is used for budget reallocation
     Maxing ROI implies the highest mROAS which would occur at 0
- # Marketing Mix Model(MMM)
+### Marketing Mix Model(MMM)
     consists of the 4 P's, typically uses marketing mix variables to explain sales
         when possible, MMM should include competitor variables also
         what happens to sales when price and ads increase at same time
-# Using mROAS to reallocate spending
+### Using mROAS to reallocate spending
     MMM fits a sales response curve per channel
     ROAS maximization requires harmonizing mROAS across channels
         Try to get the tangents to be parallel and transfer spending from the one with the lower slope to the one with the higher slope
-# Popular ad experiments
+### Popular ad experiments
     1. Going dark: randomly withhold ads. Estimates iROAS (dropbox and ebay)
     2. Weight test: randomize spending between high and low spend treatments, mROAS
     3. Randomize messages within a campaign
     4. randomize budget across platforms, publishers, behavioral targets, contexts
-    Multi Cell weight test: gives iROAS at both spending lebel and incremental mROAS between spending levels
-# unified marketing measurement
+    Multi Cell weight test: gives iROAS at both spending level and incremental mROAS between spending levels
+### unified marketing measurement
     mngmnt considers MMM, experiments, attributions, and brand lift test holistically, seeking to understand relationship between them and pros/cons of each rather than giving primacy to any single measure
     when measure overlap, we cna compare them directly, to estimate the bias of less credible measure. if an experiment result is half as large as a comparable attribution, then similar attributions might be deflated by 50%. Stability of intermeasure comparisons then become important
 
-### Finance
+# Finance
 ## Lecture 1
     bonds: represents a debt obligation that will be paid back at a later time
     shares: represent ownership of a company and entitles you to dividends from the company
@@ -105,16 +105,16 @@
         1. asset pricing: how do prices of assets form on financial markets
         2. corporate finance: financial decision making of corporations
         3. personal finance: financial decision making of households
-# Understanding Finance
+### Understanding Finance
     Money:
         medium of exchange (how many bottles of water are worth one bottle of coke)
         unit of value: measure the value of goods, services, performance
         store of value: saving and borrowing allows timing of consumption
-# Financial markets: institutions of trading financial assets
+### Financial markets: institutions of trading financial assets
     financial assets are like IOUs
         assets carry right to receive cash flow
     markets refer to all institutions and people who buy and sells financial assets
-# Actors on financial markets
+### Actors on financial markets
     households:
         participate by finding solutions to:
             balancing monthly budget
@@ -159,7 +159,7 @@
             loans – not only grant loans, but also borrow themselves
             investment decisions – intermediation and trading on their own account
             risk appraisal and management
-# Time Value of Money
+### Time Value of Money
     TVM:
         related to consumption timing: investing financial assets allows storing wealth and postponing consumption as well as borrowing and bringing consumption forward
         Difference in value of money today and in the future is called TVM
@@ -193,3 +193,120 @@
             In Finance we assume that financial markets are populated by rational investors.
         Return on risk-free asset
             A risk-free asset carries no uncertainty about future payments and the expected return will be realized under all conditions (E(R) = r risk free)
+## Lecture 2
+### Risk and Return
+    a rational investor ranks investments by risk: demand greater returns for investing in riskier assets
+    If financial markets consist of rational investors, then asset price reflect the expected risk
+    Expected return on an investment depends on risk
+        risk is the possibility that the expected return != realized return
+        a distribution with a higher variance will be riskier when the expected value is about the same
+    Risky assets have uncertain returns
+        when comparing assets, eliminate anything that has a lower expected value and a higher SD than than another option
+        Can rank options by dividing expected return by SD, this would give expected return per unit of risk
+        Expected return = probability weighted average return
+### Arbitrage and the Law of One Price
+    Law of One Price
+        Financial markets have many traders who engage in trading for profit
+        Arbitrage: opportunity to make a profit without assuming risk or committing your own capital by taking advantage of price differentials across markets
+            EX: suppose gold price in London is $135 per gram and $145 per gram in Chicago, would buy in London and then sell it in Chicago
+                in reality it is not riskless because prices could change instantly
+        Why do arbitrageurs borrow money?
+            they exploit tiny differences in markets populated by high numbers of investors
+            markets can move against them quickly
+                they have to discover the inefficiency fast and act on it quick before it closes
+        Competitive markets
+            markets that are characterized by large number of buyers and sellers who can't influence the market price
+        Arbitrage and LOOP
+            Due to arbitrageurs trading in high volumes, in competitive markets asset prices converge very quickly across different trading venues
+            the more the activity the quicker things will converge
+            No-arbitrage price: price at which arbitrageurs do not make a profit on arbitrage trading
+            Law of One price: If equivalent investment opportunities trade simultaneously in different competitive markets, then they must trade for the same price in all market
+### Diversification
+    diversification in stock portfolios
+        common vs independent risks and diversification
+            in large portfolio the number of independent events is relatively predictable
+                hence, holding a large portfolio of theft insurance allows the insurance company to price insurance policies with high precision
+                common risks can't be reduced by diversification
+        firm-specific vs market risk
+            when many stock are combined in large portfolio, firm-specific risks for each stock will average out and be diversified
+            the systematic (market) risk affects all firms and will not be diversified (a specific industry)
+            firm specific risk: affect single firm or set of firms -- stock return reaction to firm-specific news
+            market risk: affects the entire stock market -- stock return to market wide news
+    Portfolio volatility of type S and I stocks
+        Type S stocks only carry systematic (market) risk, it can't be eliminated therefore portfolio volatility remains the same regardless of the number of stocks
+        Type I firms stocks only idiosyncratic (firm-specific) risk, therefore portfolio volatility decrease with the number of stocks in the portfolio
+    Smart investors diversify
+        In consequence:
+            risk premium for firm-specific diversifiable risk is zero, so investors are not compensated for holding firm-specific risk
+            it follows that the risk premium of a security is determined by its systematic risk and doesn't depend on its diversifiable risk
+### Asset Value Principles
+    Cost of capital
+        required rate of return by investors in an asset is the cost of capital
+        investors who invest in that asset want to make at least as much money on that investment as they could on an alternative investment with similar risk
+        cost of equity: rate of return required by shareholders
+        cost of debt: rat eof return required by creditors
+    Two main approaches
+        Discounted cash flow and relative valuation models
+        DCF:
+            quantify expected future cash flows (future values)
+            discount them by the cost of equity (estimated present value)
+            find the intrinsic or fair value of an asset (sum of estimated present values)
+            Principle: in long term temporary price fluctuations offset, the fundamental share price acts as a magnet or core, around which the actual share price will fluctuate
+        Relative Valuation:
+            multiples-based or comparable based models
+            according to LOOP: identical goods must sell for the same price
+            Logic: can determine whether an asset is over or undervalued based on comparison of key value metrics to those of similar assets
+            Principle: the market mistakes in overvaluing or undervaluing assets relative to similar peers => these mistakes will be corrected in a short time.
+    Dividend discount model as a DCF model
+        shareholders as a group will receive dividends to infinity
+        shareholders' expected return is the cost of equity (discount rate commensurate with the risk they assume)
+        price today is the discounted stream of infinite dividends with the cost of equity as the discount rate
+            dividends can be constant forever
+            dividends can grow at predetermined rate
+            Price(today) = P0 = Div1/(cost of equity - growth rate) =  Div0(1+growth rate)/ (cost of equity - growth rate)
+                Div 1 = Div 0 (1+g) or div1 will be called the next year dividend
+    Selection of comparable firms
+        tradeoffs between sample size and precision of the match
+        top-down approach can avoid selection bias
+            1. largest sample size possible
+                all relevant-- size, book to market
+            2. smaller group -- exclude companies based on objective criteria
+                main geographic or product markets
+            3. closest peers -- capital structure, product markets, life-cycles
+                same industry, same markets, detailed analysis
+    P/E model
+        EX: suppose a firm has a forward looking EPS of $2, what is the share price if comparable firms trade at forward looking avg p/e ratio of 25. Estimated price is $50
+        lots of assumptions made with this: both have similar: mix of products and markets, market shares, growth rates, capital structure, dividend payout ratios, financial and accounting policies
+    Inherent flaws in RV models
+        In RV models there is no clear guidance about how to adjust for differences in business models, expected future growth rates, risk, or financial and accounting policies
+        Further, comparables only provide information regarding the value of a firm relative to other firms in the comparison set using multiples will not help us determine if an entire industry is over- or
+        undervalued
+        P/E are also changing constantly so it is hard to pin down a single one
+        Theses models have to be short term because of the fluctuations
+
+### Concept of Net Present Value
+    Future profits and cash flows
+        capital budgeting involves the set of decisions that determine corporate investments in real assets
+    Capital budgeting steps:
+        1. estimate the investment needs of the project at present
+        2. estimate future free cash flows generated by the project
+        3. discount these future free cash flows to present by the opportunity cost capital
+        4. sum up the pv of all outgoing and incoming FCF to arrive at NPV of the project
+            NPV = contribution of this activity to firm value
+    NPV
+        Compares PV of FCF from the investments (benefits) to PV of costs of the project
+    NPV decision rule
+        reject project with negative NPV and when making an investment decision choose the project with higher NPV
+        0 NPV is a project where the firm does not benefit or lose money from the project
+### Financial Market Efficiency
+    core importance for investors, corporations, and financial decision makers
+    If financial markets are efficient:
+        1. aggregate buy and sell decisions by investors result in asset prices that correctly reflect the risk and return characteristics of investing in these assets
+            in other words: asset prices become informative about the underlying risk and return expectations hence the true value of assets
+        2. in long term no investor can beat the market by identifying under and overvalued asserts and implementing profitable trades
+        3. hence, the best investment strategy is to buy and hold the market
+    Logic of Efficient market hypothesis
+        1. Financial markets are competitive
+        2. information is cheap and widely available
+        3. Due to free or cheap trading, asset prices adjust fully and quickly to new information
+        Outcome: prices fully reflect available information; therefore, financial markets are efficient
