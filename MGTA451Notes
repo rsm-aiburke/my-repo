@@ -310,3 +310,89 @@
         2. information is cheap and widely available
         3. Due to free or cheap trading, asset prices adjust fully and quickly to new information
         Outcome: prices fully reflect available information; therefore, financial markets are efficient
+# Operations
+## Lecture 1
+### Introduction to operations
+what is operations
+    Modern Operations and Role of Data Analytics
+        Companies are using AI to help streamline their processes
+        Companies use their data to see where they can improve
+    strategic role of operations
+        strategy informs operations: the top down vision where business goals dictate resource organization
+            things like Amazon's one day delivery promise
+        operations informs strategy: the bottom up innovations where operational capabilities create new strategic paths
+            Zara's ability to get things into stores quickly allows them to constantly change what they have on offer
+### What is a Process
+Process view of operations
+    A series of steps that you perform that turn inputs into outputs
+    Questions to ask when adopting a process view
+        what are the process boundaries? What are inputs and outputs?
+        what is the flow unit or unit of analysis? (the thing that goes through the process)
+        "attach yourself to the flow unit" and record its process steps through the process
+        who does the work and what resources for each activity are needed
+        what info is required to perform each activity? what does this info come from? This specifies the information flow
+Advantages of process view operations
+    applies to any organization (manufacturing, service, etc)
+    applies at any level and across functionalities
+    focuses on flows rather than snapshots
+### what is "good" operations
+strategic framework of operations
+operations competencies and process
+Financial performance measures
+    Absolute measures
+        rev, costs, operating income, net income
+        NPV
+    Relative measures
+        ROI, ROA, ROE
+    Survival Measures
+        cash flows
+    Problems with financial measures
+        infrequent
+        aggregate
+        lagging
+        All above need operational or process measures
+What Defines a Good Process?
+    The delivered value of the process
+        benefit to customer - the process cost
+            benefit to customer is the price, quality, time  and variety of the product
+### Strategic framework for process design and improvement
+    1. Strategic Position
+        how do we compete and provide value in market
+        what ios value prop to customers
+    2. operational competency
+        given strategic position what must operations do particularly well
+    3. process design
+        given needed competencies how should operations processes be structured to develop competencies that support strategies
+### Fundamentals: Competitive Strategy
+Define your sand box
+    mark and core activities in the value chain
+prioritize your value proposition
+    Cost, Quality, Variety, Time
+Cost efficiency on x-axis and time/speed on Y-axis
+### Operations Strategy
+Process Product Matrix
+    Job Shop
+        small volume, highly concentrated customized products
+    Batch
+        Many different product, groups of items that are basically identical
+    Line Flow
+        A few slightly different product, repetitive/discrete process
+    Continuous Flow
+        Highly standardized products with a continuous process
+### Goals
+operations as a managerial integration function
+Evaluation and improvement
+    1. what is an improvement?
+    2. where to target an improvement?
+    3. How to improve
+### Essential Process measures
+    1. Flow time: total time spend by a flow unit in the process boundaries
+    2. Flow Rate: number of flow units that pass through a specific point per unit time
+    3. Inventory: Number of units within the process boundaries
+    Littles Law: I = RT
+    Inventory turns
+        number of times inventory is sold and replaced in a certain amount of time: Turns = 1/T
+### Little's Law Assumption
+Stable process
+    process in which avg inflow rate is the same as avg outflow rate in long run
+    alt: process which is blowing up with inventory
