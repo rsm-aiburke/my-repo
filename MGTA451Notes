@@ -396,3 +396,18 @@ Evaluation and improvement
 Stable process
     process in which avg inflow rate is the same as avg outflow rate in long run
     alt: process which is blowing up with inventory
+## Lecture 2
+### Where is the problem
+inventory build up
+    inventory is driven by time, not just volume
+    inventory is the cost of slow response
+where things go wrong
+result: inventory grows faster than sales
+### Process Capacity
+Takt time = 1/R
+Capacity pertains to the ptoential of a process and creates an upper bound on throughput rate
+    R <= Process Capacity
+Throughput Rate/ system flow rate/ Avg flow rate = R = Minimum(demand, Capacity)
+Capacity is set by slowest process
+### Decreasing Flow Time
+What is the reason behind decreasing Flow time?
