@@ -10,12 +10,12 @@ When it's low, its likely that the uncertainty is medium to high. Plan according
 
 ### Quantifying Uncertainty
 
-- Quantify these terms with a probability
+Quantify these terms with a probability
 
-  - usually: 85%
-  - Possible: 25%
-  - Somewhat likely: 40%
-  - Probably: 60%
+- usually: 85%
+- Possible: 25%
+- Somewhat likely: 40%
+- Probably: 60%
 
   Estimating SD county population
 - best: 3.25 Million
@@ -35,7 +35,7 @@ Other Estimations:
 - number of cities in india with 1 million+ pop: 80-170, x
 - illumina 2025 rev in billions: 10-150,x
 
-## Knowledge vs Meta knowledge
+### Knowledge vs Meta Knowledge
 
 - Knowledge:
 
@@ -44,3 +44,33 @@ Other Estimations:
 
   - do you know what you know and what you don't know
   - often people over estimate their abilities
+
+# Lecture 2
+
+## Noise: Insurance example
+
+- Agent 1 willing to payout 600k and the other 1 million
+  - noise index is difference / avg
+  - how much noise is there in an organization
+- Expectation: <10%
+- Actual noise index was closer to 40% to 60%
+
+## Major Contributors to Overconfidence
+
+### Myopic Individual Perspectives
+
+People tend to focus on the things they know, it's hard to focus on things that are not in direct view of oneself
+
+No one can really see the big picture in total, we can try to think about it as a concept but it's hard to really grasp it
+
+### Biased Construal
+
+People will spin things based on what they think
+
+Think of the little girl taking a test, people will have expectations coming in and those watching the video will think about it one way or another based on their expectations
+
+### Prediction by Evaluation
+
+Taking some of what we know to predict something, we should be using everything we know even if they might not feel directly applicable
+
+Prediction has to be more moderate than the evaluation, closer to the average
