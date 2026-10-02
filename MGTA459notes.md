@@ -74,3 +74,66 @@ Think of the little girl taking a test, people will have expectations coming in 
 Taking some of what we know to predict something, we should be using everything we know even if they might not feel directly applicable
 
 Prediction has to be more moderate than the evaluation, closer to the average
+
+# Lecture 3
+
+## Averaging Difference
+
+Green Triangle difference
+
+- gives everyone an equal voice and are resepcted equally
+- If one person dominates a conversation/decision then that opinion may take over more when the decisions come together
+
+## Independent Perspectives = An Asset
+
+Putting people together who think about things differently will come out with a better result than just the high performer alone
+
+Having a low performer and high performer together can perform better than two high performers because the low performer may think differently and think of problems in the high performers process that the he/she did not think of the first time
+
+## Chasing the Expert
+
+One contributor to this pitfall is that confidence is taken as a sign of accuracy when there is only a weak correlation between the two
+
+## Organizational Priorities
+
+Default: recruiting and retaining people who fit in
+
+Also needed: facilitating, maintaining and leveraging people's independent perspective
+
+## Fundamental Tradeoff
+
+Ensuring informational diversity typically means sacrificing social cohesion and vice versa
+
+### Tradeoff Across time
+
+Information capability often important early: discovery, judgement, problem solving
+
+Cohesion is better later: buy-in, action, execution
+
+Diverge then converge
+
+## Group Influence - Asch Experiment
+
+line experiment where people are meant to find which line is the same length
+
+## Optimizing Idea Generation
+
+### Two methods
+
+Brainstorming
+
+- work as a group
+- Ground rule: no judgement
+
+Nominal Group Technique (NGT)
+
+- Each person brainstorms alone
+- Also no judgement
+- Won't be as influenced by the ideas by others, might start to think ideas along their thoughts
+- This tends to give better ideas and more ideas
+
+## Sequence to Optimize Group work
+
+Initially work alone then work together
+
+maximize chances of reaching green triangle, then try to beat the green triangle
