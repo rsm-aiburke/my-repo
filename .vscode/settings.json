@@ -77,7 +77,7 @@
   "dataWrangler.outputRenderer.enabled": false,
   "remote.autoForwardPortsSource": "hybrid",
   "security.workspace.trust.untrustedFiles": "open",
-  "workbench.colorTheme": "Dark Modern",
+  "workbench.colorTheme": "Default Dark Modern",
   "security.allowedUNCHosts": [
     "wsl.localhost"
   ],
