@@ -1,3 +1,4 @@
+
 # Lecture 1
 
 ## Changes
@@ -81,7 +82,7 @@ Prediction has to be more moderate than the evaluation, closer to the average
 
 Green Triangle difference
 
-- gives everyone an equal voice and are resepcted equally
+- gives everyone an equal voice and are respected equally
 - If one person dominates a conversation/decision then that opinion may take over more when the decisions come together
 
 ## Independent Perspectives = An Asset
@@ -137,3 +138,51 @@ Nominal Group Technique (NGT)
 Initially work alone then work together
 
 maximize chances of reaching green triangle, then try to beat the green triangle
+
+# Lecture 5
+
+## Taking Risks
+
+People are reluctant to take shots on one shot games but put it into multiple tries then they are more likely to accept
+
+## Risk and Gains
+
+Risk averse: sure of gaining something
+
+Risk seeking: take the gamble of the sure thing
+
+Mix: Change as amount changes
+
+People are risk seeking when dealing in losses, Switch the winnings for loses in these scenarios
+
+## Ref-dep and narrow framing
+
+Feelings oof being ahead vs. behind or whether a given outcome is a gain or loss arise relative to some salient standard
+
+## Loss Aversion
+
+People are more worried about the losses than they are about winning
+
+Around 2x is where it might lean one way or another
+
+## Business Strategy for taking risk
+
+Aggregation is the antidote for excess risk aversion
+
+to achieve aggregation, try to form decisions via general policies not reactions to a given situation
+
+general policies help reduce susceptibility to vagaries of specific narrow frames
+
+# Lecture 6
+
+## Influence
+
+### Assessing Influence
+
+Definition: gets others to take actions they would not otherwise
+
+## Tools
+
+formal tools: Laws, rules incentives, obligations, roles, data analysis
+
+Informal tools: coalitions, networks, team building, willingness to act, respect, morals, guilt, handling of conflict, risk tolerance
