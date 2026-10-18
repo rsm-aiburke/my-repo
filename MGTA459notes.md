@@ -1,4 +1,3 @@
-
 # Lecture 1
 
 ## Changes
@@ -186,3 +185,64 @@ Definition: gets others to take actions they would not otherwise
 formal tools: Laws, rules incentives, obligations, roles, data analysis
 
 Informal tools: coalitions, networks, team building, willingness to act, respect, morals, guilt, handling of conflict, risk tolerance
+
+# Lecture 7
+
+## Networks
+
+### Human Capital vs social capital
+
+- Human Capital Differences
+  - people cary in intellect and knowledge
+  - like being smart or better educated
+- Social capital differences
+  - people vary in ability to coordinate and add value with and through others
+  - your network is a key component of social capital
+- Parallels
+  - build it over time
+  - vital contributor to how you perform at work
+  - a reason firms hire you
+
+## underappreciated network factor
+
+- structural holes: position that bridges people who are not otherwise connected
+- Dense vs disconnected networks
+  - people all know each other within a group in a dense network
+  - there are sub groups but are connected through a single person
+- If you remove the red dot
+  - Connected: everything stays fairly similar because everyone knew each other
+  - Disconnected: groups get cut off if the connecting person is gone (creates structural hole)
+- Being in areas that people frequently go to
+  - An office by the bathroom, an apartment by the trash
+- Look to bridge the gaps between departments
+
+## Cultivating a network
+
+- network can't be "built" to serve a purpose
+  - takes time
+  - need to aovid taking rather than giving
+  - Best as a way of life
+- Be reliable
+  - performance and consistency
+- put time into relationships
+  - dont under do it
+- lean on reciprocity
+
+## Reciprocity vs. transactions
+
+- deepy ingrained ot treat others the way they treat us
+  - generous to those who are generous, ie
+- value of controlling resources depends on how you control them
+  - obvious: make trades
+  - no so obvious: generosity, unrequested favors
+
+### Reciprocity
+
+- more emotion laden than exchange
+
+## Common network mistkes
+
+- waiting to netowkr until you have an obejctive
+  - should be way of life rather than means to an end
+- focusing on networking up
+- spennding too much time with birds of a same feather
