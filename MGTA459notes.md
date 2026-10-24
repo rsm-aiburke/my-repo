@@ -220,7 +220,7 @@ Informal tools: coalitions, networks, team building, willingness to act, respect
 
 - network can't be "built" to serve a purpose
   - takes time
-  - need to aovid taking rather than giving
+  - need to avoid taking rather than giving
   - Best as a way of life
 - Be reliable
   - performance and consistency
@@ -230,7 +230,7 @@ Informal tools: coalitions, networks, team building, willingness to act, respect
 
 ## Reciprocity vs. transactions
 
-- deepy ingrained ot treat others the way they treat us
+- deeply ingrained ot treat others the way they treat us
   - generous to those who are generous, ie
 - value of controlling resources depends on how you control them
   - obvious: make trades
@@ -240,9 +240,52 @@ Informal tools: coalitions, networks, team building, willingness to act, respect
 
 - more emotion laden than exchange
 
-## Common network mistkes
+## Common network mistakes
 
-- waiting to netowkr until you have an obejctive
+- waiting to network until you have an objective
   - should be way of life rather than means to an end
 - focusing on networking up
-- spennding too much time with birds of a same feather
+- spending too much time with birds of a same feather
+
+# Lecture 8
+
+## Behavioral Ethics
+
+- Neither strong convictions nor good intentions are enough because
+  - show implicit prejudices, in group favoritism, over-claim credit, resolve conflicts of interest in ways that's benefit us
+- Awareness of these biases is not a sufficient step to get rid of the them, but it is a necessary one
+
+Principles
+
+- abstract ideas that govern behavior across situations
+  - useful in providing direction
+  - source of self-identity/pride
+  - can endanger respect from others
+  - constrain choices
+
+## Persuasion
+
+### Made to stick
+
+Answer stage vs telling others stage
+
+- the very qualities that help you in the first stage hurt you in the second
+
+Curse of knowledge (form of myopic perspective)
+
+- tappers and listeners
+  - people tap out songs and expected to get 50% right but really get 1/40 right
+  - you can hear the song in your head but the other person will not hear it in their head and therefore cannot understand from the other perspective
+
+Stats vs. Stories
+
+- audience hears a total of 8 1-min speeches
+  - on avg 2.5 stats per speech, 10% include a story
+  - When tested, 5% remember any stats but 63% remember all stories
+- Need to make things more concrete so people can grasp it better (images, diorama, renderings)
+
+Artistotle's Rehtoric
+
+- Ethos: the character of the speaker
+- Pathos: the emotions of the audience
+- Logos: the logic of the idea
