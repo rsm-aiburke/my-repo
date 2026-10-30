@@ -284,8 +284,95 @@ Stats vs. Stories
   - When tested, 5% remember any stats but 63% remember all stories
 - Need to make things more concrete so people can grasp it better (images, diorama, renderings)
 
-Artistotle's Rehtoric
+Aristotle's Rhetoric
 
 - Ethos: the character of the speaker
 - Pathos: the emotions of the audience
 - Logos: the logic of the idea
+
+# Lecture 9
+
+## Allocentrism
+
+opposite of egocentrism
+
+- actively seek others' interest and considers their preferences
+- key concepts
+  - empowerment, collaboration, empathy (sensitivity to others)
+
+## Exchange
+
+- a willingness for quid pro quo, a preference for going beyond it
+- key concepts:
+  - reciprocity
+  - axelrod (tit for tat)
+
+## Might
+
+willingness to use more coercive power, more generally an ability to address difficult issues and tolerate conflict
+
+## Networks
+
+- cultivating a broad disparate set of informal relationships
+
+## Coalitions
+
+- identifying and getting the support of key people
+- Key concepts:
+  - social influence/proof
+
+## Team building
+
+- builds groups, prioritizes cohesion, maintains unity
+- key concepts:
+  - organizational culture
+  - socialization
+
+## logos
+
+- using logical reasons, expertise, or data to convince or persuade others
+- key concepts:
+  - Rhetoric
+
+## Pathos
+
+- conveys a message that has an emotional resonance
+- key concepts:
+  - Rhetoric
+  - Sticky ideas
+  - Presentation Zen
+
+## Ethos
+
+- Establish personal credibility through credentials, commonality and meeting others' expectations
+- key concepts:
+  - rhetoric
+  - similarity/authority
+  - expert power
+
+## intentionality
+
+- Acting with a goal in mind. Relentless pursuit of goals, eschewing distractions and secondary rewards
+- key concepts:
+  - persistent, strategic, guided
+  - Psychological research on goals
+
+## Situation awareness
+
+- attends to situational power, uncertainty and importance, especially how these factors change over time
+- key concepts:
+  - terminology from military and aviation
+  - psychology on change blindness and change detection
+- Know when to wait and when to double down
+- stay vigilant for change in risk, uncertainty, etc
+
+## Agency
+
+- shapes situations, influences circumstances to suit needs, challenges status quo, accepts nothing as fixed
+- Key concepts:
+  - initiative, control
+  - sociological research on "rule breakers"
+
+## Results
+
+- using any of the concepts at all is going to be useful, they are all positively correlated, Agency is the most positively correlated
