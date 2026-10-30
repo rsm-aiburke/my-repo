@@ -376,3 +376,22 @@ willingness to use more coercive power, more generally an ability to address dif
 ## Results
 
 - using any of the concepts at all is going to be useful, they are all positively correlated, Agency is the most positively correlated
+
+# Lecture 10
+
+## Using might
+
+### Tit for tat and might
+
+nice- Might is not your tool of choice
+
+boundaries - but you are willing to use it
+
+forgiving - you're aiming to return to normal
+
+clear - You're sensible and reliable
+
+Related: both use and non use of power can invoke resistance.
+
+- suggests using minimum necessary to do the job, think a slider not a switch
+- use it too much then you find resistance, don't use it enough then you get walk over
